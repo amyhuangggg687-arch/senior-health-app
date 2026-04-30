@@ -1,0 +1,9 @@
+{
+  "name": "Remix: 银发食光 (Silver Foodie)",
+  "description": "一个连接老人与子女的健康饮食互动平台，通过AI分析视频菜谱，为长辈量身定制健康饮食方案。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
